@@ -101,7 +101,10 @@
 
 	.logo{margin: 40px auto; }
 
-	address{border-top: 1px solid rgba(255, 255, 255, 0.3); font: 20px/1.2 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #fff; padding: 30px 30px 10px; display: block; text-transform: uppercase;}
+	address{ display: block;border-top: 1px solid rgba(255, 255, 255, 0.3); font: 20px/1.2 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #fff; padding: 30px 30px 10px; display: block; text-transform: uppercase;}
+/* != PLACEHOLDER ATTRIBUTE STYLES = input or textarea - placeholder="whatever" ===== */
+
+.gform_confirmation_message_1{ display: block;font: 20px/1.2 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #fff; padding: 30px 30px 10px; display: block; text-transform: uppercase;}
 /* != PLACEHOLDER ATTRIBUTE STYLES = input or textarea - placeholder="whatever" ===== */
 /*
     ::-webkit-input-placeholder { color: #aaa; }
