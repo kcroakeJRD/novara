@@ -8,3 +8,4 @@ wordpress/wp-admin
 wordpress/*.php
 wordpress/license.txt
 wordpress/readme.html
+wordpress/.htaccess
