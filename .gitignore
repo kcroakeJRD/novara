@@ -1,2 +1,10 @@
 _assets
 prepros.cfg
+wordpress/wp-includes/
+wordpress/wp-content/plugins
+wordpress/wp-content/index.php
+wordpress/wp-content/themes/index.php
+wordpress/wp-admin
+wordpress/*.php
+wordpress/license.txt
+wordpress/readme.html
